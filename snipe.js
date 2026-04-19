@@ -1408,14 +1408,9 @@ async function showMainMenu(ctx, edit = false) {
       }
     }
     
-    const message = `
-🚀 *Welcome Maestro Sniper Bot* 🤖
-
-*I'm your Web3 execution engine*.
-━━━━━━━━━━━━━━━━━━
-*What I do for you*:⬇️
-📊 Scan the market to tell you what to buy, ignore, or stalk
-🎯 Execute entries & exits with sniper-level timing
+    What I do for you*:⬇️
+ Scan the market to tell you what to buy, ignore, or stalk
+ Execute entries & exits with sniper-level timing
 🧠 Detect traps, fake pumps, and incoming dumps before they hit
 ⚡ Operate at machine-speed — no lag, no emotion
 ━━━━━━━━━━━━━━━━━━
